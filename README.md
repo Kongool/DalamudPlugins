@@ -18,8 +18,8 @@ One custom plugin repository for Kongool's Dalamud plugins.
 | Plugin | Internal name | Source |
 |---|---|---|
 | Mercury | `Mercury` | [Kongool/Mercury](https://github.com/Kongool/Mercury) |
-| Minerva | `Minerva` | [Kongool/Minerva](https://github.com/Kongool/Minerva) |
 | Parcae | `AutoFateGrind` | [Kongool/Parcae](https://github.com/Kongool/Parcae) |
+| Fatum | `Fatum` | [Kongool/Fatum](https://github.com/Kongool/Fatum) |
 
 ## Publishing an update
 
