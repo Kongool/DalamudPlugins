@@ -46,15 +46,15 @@
       "utility"
     ],
     "RepoUrl": "https://github.com/Kongool/Parcae",
-    "AssemblyVersion": "0.2.1.0",
+    "AssemblyVersion": "0.2.2.0",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/Kongool/Parcae/main/AutoFateGrind/Images/Icon.png",
     "ImageUrls": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/Kongool/Parcae/releases/download/v0.2.1.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Kongool/Parcae/releases/download/v0.2.1.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Kongool/Parcae/releases/download/v0.2.1.0/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Kongool/Parcae/releases/download/v0.2.2.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Kongool/Parcae/releases/download/v0.2.2.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Kongool/Parcae/releases/download/v0.2.2.0/latest.zip"
   },
   {
     "Author": "Kongool",
